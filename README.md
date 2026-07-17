@@ -2,7 +2,9 @@
 The application is intended as a personal finance planning tool rather than financial advice.
 
 There are numerous bugs that crash the user's computer. May or may not fix.
+
 ---
+
 
 # Features
 
